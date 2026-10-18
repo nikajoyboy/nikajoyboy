@@ -33,21 +33,6 @@ Susano OS is a modular, security-focused operating system designed for research,
 - Tooling and sandbox layer
 - Build and release validation pipeline
 
-## Build & development
-
-```bash
-git clone https://github.com/nikajoyboy/Susano.git
-cd Susano
-make setup
-make build
-```
-
-## Running locally
-
-```bash
-./scripts/run-qemu.sh out/dev/susano-dev.img
-```
-
 ## Current direction
 
 - Secure foundational OS design
