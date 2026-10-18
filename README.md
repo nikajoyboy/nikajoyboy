@@ -1,37 +1,71 @@
-# Hi — I’m Nika 👋
+# Susano OS
 
-I’m an ethical hacker and security researcher focused on web and infrastructure security, bug bounties, and building practical security tooling.
+Security-first operating system and tooling platform for research, automation, and hardened deployments.
 
-- 🔭 I’m currently: hunting bugs, improving detection tooling, and contributing to open-source security projects
-- 🌱 I’m learning: advanced exploit development, cloud security hardening, and secure architecture
-- 🧰 Primary areas: web app pentesting, API security, cloud infra, OSINT, and incident response
-- 💬 Ask me about: vulnerability research, responsible disclosure, secure coding practices, and threat modeling
-- ⚡ Fun fact: I enjoy automating repetitive security tasks and building small tools that make pentesting more reliable
+> Private project draft — not yet public.
 
-## Tools & Tech
+## Overview
 
-- Platforms: Linux (Kali, Parrot), AWS, GCP
-- Web: Burp Suite, ZAP, sqlmap, ffuf, nmap
-- Languages: Python, Bash, JavaScript
-- Other: Docker, Terraform, Git
+Susano OS is a modular, security-focused operating system designed for research, automation, and resilient infrastructure workflows. It combines a hardened base, developer-friendly tooling, and a structured automation layer for environments where security, reproducibility, and system control matter.
 
-## Responsible disclosure
-I follow responsible disclosure and coordinated vulnerability disclosure practices. If you’ve found something or want to work together on a security engagement, please reach out and we’ll coordinate responsibly.
+## What I’m building
 
-## Projects / Highlights
-- **Bug bounty hunts** — ongoing publicly documented write-ups (add links here)
-- **Security tooling** — small automation scripts and scanners for triage (link repos here)
+- Hardened system foundation for secure environments
+- Modular architecture for custom deployments
+- Tooling for automation, debugging, and research workflows
+- Clean support for virtualization and bare-metal testing
+- Reproducible build pipeline for internal release validation
 
-## Open to
-- Collaboration on security tooling and open-source projects
-- Bug bounty programs and responsible disclosure consults
-- Mentoring and knowledge-sharing on secure development
+## Core focus
+
+- Security-first system design
+- Hardened defaults and reduced attack surface
+- Automation and tooling for secure operations
+- Research-friendly development environment
+- Secure deployment patterns for modern infrastructure
+
+## Architecture
+
+- Boot & kernel layer
+- Base userspace and system services
+- Security and hardening layer
+- Package and service modules
+- Tooling and sandbox layer
+- Build and release validation pipeline
+
+## Build & development
+
+```bash
+git clone https://github.com/nikajoyboy/Susano.git
+cd Susano
+make setup
+make build
+```
+
+## Running locally
+
+```bash
+./scripts/run-qemu.sh out/dev/susano-dev.img
+```
+
+## Current direction
+
+- Secure foundational OS design
+- Reproducible internal build flow
+- Modular package architecture
+- CI-driven validation
+- Private release preparation before public publication
+
+## Security mindset
+
+Susano is built with a strong security-first philosophy: minimal default exposure, clean privilege boundaries, secure defaults, reproducible builds, and deliberate configuration discipline.
 
 ## Contact
-- Email:
-- Website:
 
-## GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nikajoyboy&show_icons=true&theme=radical)
+- GitHub: https://github.com/nikajoyboy
+- Project: Susano OS
+- Maintainer: Nika
 
 ---
+
+A system designed for security, control, and deliberate engineering.
