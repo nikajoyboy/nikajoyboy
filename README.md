@@ -1,56 +1,39 @@
-# Susano OS
+# Hi, I’m Nika 👋
 
-Security-first operating system and tooling platform for research, automation, and hardened deployments.
+Security researcher, systems engineer, and developer building secure systems and practical security tooling.
 
-> Private project draft — not yet public.
+- 🔒 Focus: Ethical hacking, application & cloud security, infrastructure hardening
+- 🛠️ Building: Susano OS — a security-first OS and tooling platform
+- 🌱 Learning: advanced exploit development, secure architecture, reproducible builds
+- 🤝 Open to: collaborations on security tooling, research, and responsible disclosure
+- 💬 Ask me about: pentesting workflows, vulnerability research, secure CI/CD, Linux internals
 
-## Overview
+## About me
 
-Susano OS is a modular, security-focused operating system designed for research, automation, and resilient infrastructure workflows. It combines a hardened base, developer-friendly tooling, and a structured automation layer for environments where security, reproducibility, and system control matter.
+I blend software engineering and security research to build tools and environments that are resilient and reproducible. I enjoy turning investigative research into practical, well-documented projects that help teams ship safely.
 
-## What I’m building
+## Current highlights
 
-- Hardened system foundation for secure environments
-- Modular architecture for custom deployments
-- Tooling for automation, debugging, and research workflows
-- Clean support for virtualization and bare-metal testing
-- Reproducible build pipeline for internal release validation
+- Susano OS — a private project focused on hardened OS builds and reproducible tooling
+- Bug bounty and vulnerability research with public write-ups (linked in projects)
+- Tooling and automation for pentest triage and PoC validation
 
-## Core focus
+## Tech & tools
 
-- Security-first system design
-- Hardened defaults and reduced attack surface
-- Automation and tooling for secure operations
-- Research-friendly development environment
-- Secure deployment patterns for modern infrastructure
-
-## Architecture
-
-- Boot & kernel layer
-- Base userspace and system services
-- Security and hardening layer
-- Package and service modules
-- Tooling and sandbox layer
-- Build and release validation pipeline
-
-## Current direction
-
-- Secure foundational OS design
-- Reproducible internal build flow
-- Modular package architecture
-- CI-driven validation
-- Private release preparation before public publication
-
-## Security mindset
-
-Susano is built with a strong security-first philosophy: minimal default exposure, clean privilege boundaries, secure defaults, reproducible builds, and deliberate configuration discipline.
+- Languages: Python, Bash, JavaScript, Go
+- Tools: Burp Suite, Nmap, ffuf, sqlmap, Docker
+- Platforms: Linux, QEMU, AWS, GCP
 
 ## Contact
 
 - GitHub: https://github.com/nikajoyboy
-- Project: Susano OS
-- Maintainer: Nika
+- Email: your.email@example.com
+- Portfolio / Links: your-portfolio-link
+
+## GitHub stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikajoyboy&show_icons=true&theme=radical)
 
 ---
 
-A system designed for security, control, and deliberate engineering.
+Security is not a feature; it is a foundation.
