@@ -36,8 +36,3 @@ I follow responsible disclosure and coordinated vulnerability disclosure practic
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nikajoyboy&show_icons=true&theme=radical)
 
 ---
-
-If you want, I can:
-- replace the placeholders (email, portfolio, social) with your real links
-- add specific project links or write-ups you want pinned
-- add a PGP key block or preferred contact instructions for vulnerability reports
