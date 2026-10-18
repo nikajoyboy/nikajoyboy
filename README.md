@@ -28,9 +28,8 @@ I follow responsible disclosure and coordinated vulnerability disclosure practic
 - Mentoring and knowledge-sharing on secure development
 
 ## Contact
-- Email: your.email@example.com
-- Website / Portfolio: your-portfolio.example.com
-- Twitter / Mastodon: @yourhandle
+- Email:
+- Website:
 
 ## GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nikajoyboy&show_icons=true&theme=radical)
