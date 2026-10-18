@@ -28,7 +28,7 @@ I blend software engineering and security research to build tools and environmen
 
 - GitHub: https://github.com/nikajoyboy
 - Email: defense.i.t.solution@proton.me
-- Portfolio / Links: your-portfolio-link
+- Portfolio / Links: https://dits-portofolio.netlify.app/
 
 ## GitHub stats
 
