@@ -37,6 +37,6 @@ I blend software engineering and security research to build tools and environmen
 ---
  ![Sponsor](https://img.shields.io/badge/Sponsor-GitHub-181717?style=for-the-badge&logo=github)
 
-Generic donate line with link placeholder: Please consider sponsoring Susano or making a one-time donation via Open Collective — your support keeps the project going.
+Please consider sponsoring Susano or making a one-time donation via Open Collective — your support keeps the project going.
 
 Security is not a feature; it is a foundation.
