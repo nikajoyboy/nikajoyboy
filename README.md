@@ -27,7 +27,7 @@ I blend software engineering and security research to build tools and environmen
 ## Contact
 
 - GitHub: https://github.com/nikajoyboy
-- Email: your.email@example.com
+- Email: defense.i.t.solution@proton.me
 - Portfolio / Links: your-portfolio-link
 
 ## GitHub stats
@@ -35,7 +35,7 @@ I blend software engineering and security research to build tools and environmen
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikajoyboy&show_icons=true&theme=radical)
 
 ---
-GitHub Sponsors badge: ![Sponsor](https://img.shields.io/badge/Sponsor-GitHub-181717?style=for-the-badge&logo=github)
+ ![Sponsor](https://img.shields.io/badge/Sponsor-GitHub-181717?style=for-the-badge&logo=github)
 
 Generic donate line with link placeholder: Please consider sponsoring Susano or making a one-time donation via Open Collective — your support keeps the project going.
 
