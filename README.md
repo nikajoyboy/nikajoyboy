@@ -30,11 +30,8 @@ I blend software engineering and security research to build tools and environmen
 - Email: defense.i.t.solution@proton.me
 - Portfolio / Links: https://dits-portofolio.netlify.app/
 
-## GitHub stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikajoyboy&show_icons=true&theme=radical)
-
 ---
+
  ![Sponsor](https://img.shields.io/badge/Sponsor-GitHub-181717?style=for-the-badge&logo=github)
 
 Please consider sponsoring Susano or making a one-time donation via Open Collective — your support keeps the project going.
